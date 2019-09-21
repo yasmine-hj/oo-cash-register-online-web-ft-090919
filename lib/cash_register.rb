@@ -12,6 +12,7 @@ class CashRegister
     quantity.times do |qty|
       @items << title
     end
+  end
       
     
   
